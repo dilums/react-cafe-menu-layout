@@ -1,0 +1,129 @@
+[
+  {
+    "key": 0,
+    "title": "Coffee",
+    "description": {
+      "left": {
+        "text": "Small : $2",
+        "image": "https://assets.codepen.io/3685267/react-cafe-menu-coffee.png",
+        "scaleDown": true
+      },
+      "right": {
+        "text": "Large : $4",
+        "image": "https://assets.codepen.io/3685267/react-cafe-menu-coffee.png"
+      }
+    },
+    "list": [
+      {
+        "title": "House Blend",
+        "description": "Smoky, strong, and assertive, just like us."
+      },
+      {
+        "title": "Organic French Roast",
+        "description": "Smooth and mellow with hints of molasses."
+      },
+      {
+        "title": "Organic Decaf",
+        "description": "Full bodied and rich, we promise you won't miss the caffiene."
+      }
+    ]
+  },
+  {
+    "key": 1,
+    "title": "Tea",
+    "description": {
+      "left": {
+        "text": "Per Cup : $2",
+        "image": "https://assets.codepen.io/3685267/react-cafe-menu-tea.png"
+      },
+      "right": {
+        "text": "$200 if you break the cup",
+        "image": "https://assets.codepen.io/3685267/react-cafe-menu-tea-broken.png"
+      },
+      "text": "Served to brave people in our notorious antique tea cups."
+    },
+    "list": [
+      {
+        "title": "Earl Grey ",
+        "description": "Black tea fragranced with bergamot."
+      },
+      {
+        "title": "Ginger Hibiscus",
+        "description": "Floral, tart, and spicy. Caffeine free."
+      },
+      {
+        "title": "Cascade Green",
+        "description": "A blend of green teas hand selected by our master teamaker."
+      },
+      {
+        "title": "Chamomile",
+        "description": "Soothing and slightly sweet. Try it with honey! Caffeine free."
+      }
+    ]
+  },
+  {
+    "key": 2,
+    "title": "Espresso Drinks",
+    "description": {
+      "left": {
+        "text": "Small : $3",
+        "image": "https://assets.codepen.io/3685267/react-cafe-menu-espresso.png",
+        "scaleDown": true
+      },
+      "right": {
+        "text": "Large : $5",
+        "image": "https://assets.codepen.io/3685267/react-cafe-menu-espresso.png"
+      }
+    },
+    "list": [
+      {
+        "title": "Machiatto",
+        "description": "Espressso and steamed milk, served in a demitasse cup. (Size Small Only)"
+      },
+      {
+        "title": "Latte",
+        "description": "Espresso with steamed milk, and sometimes a little art on top. "
+      },
+      {
+        "title": "Mocha",
+        "description": "Espresso with steamed chocolate milk and whipped cream. Also available with white chocolate milk."
+      },
+      {
+        "title": "Americano",
+        "description": "1 shot espresso, two shots hot water."
+      }
+    ]
+  },
+  {
+    "key": 3,
+    "title": "From the Bakery",
+    "description": {
+      "left": {
+        "text": "Cookies : $2",
+        "image": "https://assets.codepen.io/3685267/react-cafe-menu-cookie.png"
+      },
+      "right": {
+        "text": "Muffins & Pastries : $3",
+        "image": "https://assets.codepen.io/3685267/react-cafe-menu-muffin.png"
+      }
+    },
+    "list": [
+      {
+        "title": "Mallory's Famous Snickerdoodles",
+        "description": "Creamy cinnamony goodness made from scratch with our founder Mallory's prizewinning recipe."
+      },
+      {
+        "title": "Oatmeal Cookie",
+        "description": "Packed with rolled oats, raisins, and cranberries, these monster cookies are (almost) good for ya!"
+      },
+      {
+        "title": "Mixed Berry Muffins",
+        "description": "Filled with the best berries of the season and topped with a crumb crust."
+      },
+      {
+        "title": "Croissant",
+        "description": "Our oversized croissants are buttery, flaky, and usually all sold out by 7 a.m."
+      }
+    ]
+  }
+]
