@@ -1,6 +1,17 @@
 import React from "react";
 
-type MenuSectionProps = {};
+type MenuSectionProps = {
+  item: {
+    title: string;
+    list: { title: string; description: string }[];
+    description: {
+      text?: string;
+      left: { text: string; image: string; scaleDown?: boolean };
+      right: { text: string; image: string; scaleDown?: boolean };
+    };
+  };
+  index: number;
+};
 export default function MenuSection({
   item: {
     title: mainTitle,
@@ -12,7 +23,7 @@ export default function MenuSection({
     },
   },
   index,
-}) {
+}: MenuSectionProps) {
   return (
     <div
       className={`w-full md:w-1/2 p-6 flex-shrink-0 ${index > 1 && "mt-16"}`}
