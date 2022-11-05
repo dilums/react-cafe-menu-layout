@@ -1,9 +1,9 @@
 {
-    "title":"",
-    "desc":"",
-    "url":"",
-    "ogImg":"",
+    "title":"React Cafe Menu Layout",
+    "desc":"Cafe menu layout using Next.js and Tailwind CSS",
+    "url":"https://react-cafe-menu-layout.vercel.app",
+    "ogImg":"https://res.cloudinary.com/ds574fco0/image/upload/v1667630293/github/og-react-cafe-menu-layout_iqrzxl.jpg",
     "author":"Dilum Sanjaya",
     "twitter":"@DilumSanjaya",
-    "keywords":""
+    "keywords":"React, Next.js, Tailwind CSS"
 }
